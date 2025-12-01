@@ -1,7 +1,7 @@
 # sum_avg_marks.py
 
 # You can change these numbers any time
-numbers = [73, 90, 87, 67]  # you can change the numbers
+numbers = [43, 40,37, 27]  # you can change the numbers
 
 total = sum(numbers)
 average = total / len(numbers)
